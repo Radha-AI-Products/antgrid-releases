@@ -8,7 +8,7 @@ This repository hosts downloads only — the source lives in a private repositor
 
 | Platform | Link | Notes |
 |---|---|---|
-| macOS (Apple Silicon + Intel) | [antgrid-macos.zip](https://github.com/Radha-AI-Products/antgrid-releases/releases/latest/download/antgrid-macos.zip) | Signed & notarized. Unzip, drag `antgrid.app` to Applications. |
+| macOS (Apple Silicon + Intel) | [antgrid-macos.dmg](https://github.com/Radha-AI-Products/antgrid-releases/releases/latest/download/antgrid-macos.dmg) | Signed & notarized. Open the `.dmg`, drag `Antgrid` to Applications. |
 | Windows (x64) | [antgrid-windows.zip](https://github.com/Radha-AI-Products/antgrid-releases/releases/latest/download/antgrid-windows.zip) | Unzip, run `antgrid.exe`. Currently unsigned — SmartScreen may warn ("More info" → "Run anyway"). |
 
 All versions: [Releases](https://github.com/Radha-AI-Products/antgrid-releases/releases).
